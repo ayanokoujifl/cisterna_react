@@ -1,0 +1,238 @@
+[
+	{
+		"value" : "3101706",
+		"label" : "ALMENARA"
+	},
+	{
+		"value" : "3104452",
+		"label" : "ARICANDUVA"
+	},
+	{
+		"value" : "3104502",
+		"label" : "ARINOS"
+	},
+	{
+		"value" : "3106507",
+		"label" : "BERILO"
+	},
+	{
+		"value" : "3106655",
+		"label" : "BERIZAL"
+	},
+	{
+		"value" : "3107307",
+		"label" : "BOCAIUVA"
+	},
+	{
+		"value" : "3108503",
+		"label" : "BOTUMIRIM"
+	},
+	{
+		"value" : "3109402",
+		"label" : "BURITIZEIRO"
+	},
+	{
+		"value" : "3112703",
+		"label" : "CAPITAO ENEAS"
+	},
+	{
+		"value" : "3113503",
+		"label" : "CARBONITA"
+	},
+	{
+		"value" : "3115474",
+		"label" : "CATUTI"
+	},
+	{
+		"value" : "3116100",
+		"label" : "CHAPADA DO NORTE"
+	},
+	{
+		"value" : "3117836",
+		"label" : "CONEGO MARINHO"
+	},
+	{
+		"value" : "3119500",
+		"label" : "CORONEL MURTA"
+	},
+	{
+		"value" : "3120300",
+		"label" : "CRISTALIA"
+	},
+	{
+		"value" : "3120870",
+		"label" : "CURRAL DE DENTRO"
+	},
+	{
+		"value" : "3125606",
+		"label" : "FELISBURGO"
+	},
+	{
+		"value" : "3126604",
+		"label" : "FRANCISCO DUMONT"
+	},
+	{
+		"value" : "3127339",
+		"label" : "GAMELEIRAS"
+	},
+	{
+		"value" : "3127800",
+		"label" : "GRAO MOGOL"
+	},
+	{
+		"value" : "3128253",
+		"label" : "GUARACIAMA"
+	},
+	{
+		"value" : "3129608",
+		"label" : "IBIAI"
+	},
+	{
+		"value" : "3129657",
+		"label" : "IBIRACATU"
+	},
+	{
+		"value" : "3130655",
+		"label" : "INDAIABIRA"
+	},
+	{
+		"value" : "3132008",
+		"label" : "ITACAMBIRA"
+	},
+	{
+		"value" : "3132107",
+		"label" : "ITACARAMBI"
+	},
+	{
+		"value" : "3134004",
+		"label" : "ITINGA"
+	},
+	{
+		"value" : "3135100",
+		"label" : "JANAUBA"
+	},
+	{
+		"value" : "3135209",
+		"label" : "JANUARIA"
+	},
+	{
+		"value" : "3135605",
+		"label" : "JEQUITAI"
+	},
+	{
+		"value" : "3136520",
+		"label" : "JOSE GONCALVES DE MINAS"
+	},
+	{
+		"value" : "3136801",
+		"label" : "JURAMENTO"
+	},
+	{
+		"value" : "3136959",
+		"label" : "JUVENILIA"
+	},
+	{
+		"value" : "3139250",
+		"label" : "MAMONAS"
+	},
+	{
+		"value" : "3141009",
+		"label" : "MATO VERDE"
+	},
+	{
+		"value" : "3141801",
+		"label" : "MINAS NOVAS"
+	},
+	{
+		"value" : "3142700",
+		"label" : "MONTALVANIA"
+	},
+	{
+		"value" : "3142908",
+		"label" : "MONTE AZUL"
+	},
+	{
+		"value" : "3143450",
+		"label" : "MONTEZUMA"
+	},
+	{
+		"value" : "3144656",
+		"label" : "NINHEIRA"
+	},
+	{
+		"value" : "3146552",
+		"label" : "PAI PEDRO"
+	},
+	{
+		"value" : "3149150",
+		"label" : "PEDRAS DE MARIA DA CRUZ"
+	},
+	{
+		"value" : "3150570",
+		"label" : "PINTOPOLIS"
+	},
+	{
+		"value" : "3151206",
+		"label" : "PIRAPORA"
+	},
+	{
+		"value" : "3152131",
+		"label" : "PONTO CHIQUE"
+	},
+	{
+		"value" : "3152204",
+		"label" : "PORTEIRINHA"
+	},
+	{
+		"value" : "3156601",
+		"label" : "RUBIM"
+	},
+	{
+		"value" : "3157377",
+		"label" : "SANTA CRUZ DE SALINAS"
+	},
+	{
+		"value" : "3157609",
+		"label" : "SANTA FE DE MINAS"
+	},
+	{
+		"value" : "3162450",
+		"label" : "SAO JOAO DAS MISSOES"
+	},
+	{
+		"value" : "3168002",
+		"label" : "TAIOBEIRAS"
+	},
+	{
+		"value" : "3170008",
+		"label" : "UBAI"
+	},
+	{
+		"value" : "3170529",
+		"label" : "URUCUIA"
+	},
+	{
+		"value" : "3170651",
+		"label" : "VARGEM GRANDE DO RIO PARDO"
+	},
+	{
+		"value" : "3170800",
+		"label" : "VARZEA DA PALMA"
+	},
+	{
+		"value" : "3170909",
+		"label" : "VARZELANDIA"
+	},
+	{
+		"value" : "3171030",
+		"label" : "VERDELANDIA"
+	},
+	{
+		"value" : "3171071",
+		"label" : "VEREDINHA"
+	},
+	{
+		"value" : "3171600",
+		"label" : "VIRGEM DA LAPA"
+	}
+]
